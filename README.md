@@ -35,6 +35,7 @@ After creating a Github Repository called AzureDevops, first Github Actions is u
 ![image](https://user-images.githubusercontent.com/47538198/227804273-c1d72551-62fd-44c3-8dc4-d785accda905.png)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+![image](https://user-images.githubusercontent.com/47538198/227804388-6644b88b-04b1-4732-80e8-2c6dfb302465.png)
 
 * Output of a test run
 
