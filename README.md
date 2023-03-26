@@ -4,7 +4,7 @@ This project demonstrates the implementation of Continuous Integration and Conti
 After creating a Github Repository called AzureDevops, first Github Actions is used along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle to create Continuous Delivery. Then this project was integrated with Azure Pipelines to enable Continuous Delivery to Azure App Service.
 
 ## Project Plan
-![image](https://user-images.githubusercontent.com/47538198/227804650-1b6e4532-d925-4608-867e-c83f2b620aa1.png)
+
 * A link to a Trello board for the project
 * A link to a spreadsheet that includes the original and final project plan>
 
@@ -48,7 +48,7 @@ When you go to the"https://<Your_unique_app_name>.azurewebsites.net/" you can se
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 ![image](https://user-images.githubusercontent.com/47538198/227804717-553171e9-23e4-4860-8288-2b1c1a16f5db.png)
 The output should look similar to this:
-
+![image](https://user-images.githubusercontent.com/47538198/227804650-1b6e4532-d925-4608-867e-c83f2b620aa1.png)
 ```bash
 udacity@Azure:~$ ./make_predict_azure_app.sh
 Port: 443
