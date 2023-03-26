@@ -38,7 +38,7 @@ After creating a Github Repository called AzureDevops, first Github Actions is u
 ![image](https://user-images.githubusercontent.com/47538198/227804388-6644b88b-04b1-4732-80e8-2c6dfb302465.png)
 
 * Output of a test run
-
+![image](https://user-images.githubusercontent.com/47538198/227804523-d76521a5-5fd3-4d5b-9417-64f17abca0b3.png)
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
 * Running Azure App Service from Azure Pipelines automatic deployment
