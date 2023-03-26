@@ -5,7 +5,7 @@ After creating a Github Repository called AzureDevops, first Github Actions is u
 
 ## Project Plan
 ![image](https://user-images.githubusercontent.com/47538198/227804650-1b6e4532-d925-4608-867e-c83f2b620aa1.png)
-* A link to a Trello board for the project
+* A link to a Trello board for the project:https://github.com/ebozcal/Flask_ML_Azure/blob/main/Screeshoots/trello.png?raw=true
 * A link to a spreadsheet that includes the original and final project plan>
 
 ## Instructions
