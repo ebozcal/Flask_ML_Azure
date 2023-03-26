@@ -39,11 +39,11 @@ After creating a Github Repository called AzureDevops, first Github Actions is u
 * Output of a test run
 ![image](https://user-images.githubusercontent.com/47538198/227804523-d76521a5-5fd3-4d5b-9417-64f17abca0b3.png)
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
-
+![image](https://user-images.githubusercontent.com/47538198/227804570-49ace199-87b9-49ea-9d70-60c056e97a5e.png)
 * Running Azure App Service from Azure Pipelines automatic deployment
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-![image](https://user-images.githubusercontent.com/47538198/227804570-49ace199-87b9-49ea-9d70-60c056e97a5e.png)
+![image](https://user-images.githubusercontent.com/47538198/227804717-553171e9-23e4-4860-8288-2b1c1a16f5db.png)
 The output should look similar to this:
 
 ```bash
@@ -53,12 +53,10 @@ Port: 443
 ```
 
 * Output of streamed log files from deployed application
-
-> 
+![image](https://user-images.githubusercontent.com/47538198/227804769-f8ea31ad-80fe-41c0-adc8-c1287be5dece.png)
 
 ## Enhancements
-
-<TODO: A short description of how to improve the project in the future>
+You can extend this project by using different app rather than ML app and you can try different platforms todo this kind of CI/CD project rather than GitHub and azure paltforms
 
 ## Demo 
 
