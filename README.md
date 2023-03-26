@@ -4,14 +4,13 @@ This project demonstrates the implementation of Continuous Integration and Conti
 After creating a Github Repository called AzureDevops, first Github Actions is used along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle to create Continuous Delivery. Then this project was integrated with Azure Pipelines to enable Continuous Delivery to Azure App Service.
 
 ## Project Plan
-![image](https://user-images.githubusercontent.com/47538198/227804650-1b6e4532-d925-4608-867e-c83f2b620aa1.png)
+
 * A link to a Trello board for the project:https://github.com/ebozcal/Flask_ML_Azure/blob/main/Screeshoots/trello.png?raw=true
 * A link to a spreadsheet that includes the original and final project plan:https://github.com/ebozcal/Flask_ML_Azure/blob/main/Screeshoots/planning.png?raw=true
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+![image](https://user-images.githubusercontent.com/47538198/227804650-1b6e4532-d925-4608-867e-c83f2b620aa1.png)
 
 1. Create an Azure Account and install the Azure command line interface. 
 2. Crate a GitHub repository called Flask_ML_app and clone this repository to the Azure CLI. 
