@@ -44,6 +44,7 @@ After creating a Github Repository called AzureDevops, first Github Actions is u
 * Running Azure App Service from Azure Pipelines automatic deployment
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
+![image](https://user-images.githubusercontent.com/47538198/227804570-49ace199-87b9-49ea-9d70-60c056e97a5e.png)
 The output should look similar to this:
 
 ```bash
