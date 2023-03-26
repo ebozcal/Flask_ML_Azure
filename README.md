@@ -26,8 +26,6 @@ After creating a Github Repository called AzureDevops, first Github Actions is u
 8. As a final step deploy the application using Azure Pipelines into Azure App Services. For this, create a Pipeline and Edit the YAML file to build and deploy the app service successfully and test an application inside of Azure Pipelines
 
 
-![image](https://user-images.githubusercontent.com/47538198/227804191-0181b58b-8d48-4f88-a4bd-96714b61a6c2.png)
-
 * Project running on Azure App Service
 * After creating your webapp, deploy it to Azure app services by using Azure CLI:
 * az webapp up -n <your_webapp_name> --sku F1 --resource-group <your_resource_group>
@@ -44,7 +42,7 @@ When you go to the"https://<Your_unique_app_name>.azurewebsites.net/" you can se
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 ![image](https://user-images.githubusercontent.com/47538198/227804570-49ace199-87b9-49ea-9d70-60c056e97a5e.png)
 * Running Azure App Service from Azure Pipelines automatic deployment
-
+![image](https://user-images.githubusercontent.com/47538198/227804191-0181b58b-8d48-4f88-a4bd-96714b61a6c2.png)
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 ![image](https://user-images.githubusercontent.com/47538198/227804717-553171e9-23e4-4860-8288-2b1c1a16f5db.png)
 The output should look similar to this:
