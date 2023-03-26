@@ -38,11 +38,12 @@ When you go to the"https://<Your_unique_app_name>.azurewebsites.net/" you can se
 ![image](https://user-images.githubusercontent.com/47538198/227804388-6644b88b-04b1-4732-80e8-2c6dfb302465.png)
 
 * Output of a test run
+![image](https://user-images.githubusercontent.com/47538198/227804191-0181b58b-8d48-4f88-a4bd-96714b61a6c2.png)
 ![image](https://user-images.githubusercontent.com/47538198/227804523-d76521a5-5fd3-4d5b-9417-64f17abca0b3.png)
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 ![image](https://user-images.githubusercontent.com/47538198/227804570-49ace199-87b9-49ea-9d70-60c056e97a5e.png)
 * Running Azure App Service from Azure Pipelines automatic deployment
-![image](https://user-images.githubusercontent.com/47538198/227804191-0181b58b-8d48-4f88-a4bd-96714b61a6c2.png)
+
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 ![image](https://user-images.githubusercontent.com/47538198/227804717-553171e9-23e4-4860-8288-2b1c1a16f5db.png)
 The output should look similar to this:
