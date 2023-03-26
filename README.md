@@ -29,7 +29,10 @@ After creating a Github Repository called AzureDevops, first Github Actions is u
 ![image](https://user-images.githubusercontent.com/47538198/227804191-0181b58b-8d48-4f88-a4bd-96714b61a6c2.png)
 
 * Project running on Azure App Service
-
+* After creating your webapp, deploy it to Azure app services by using Azure CLI:
+* az webapp up -n <your_webapp_name> --sku F1 --resource-group <your_resource_group>
+When you go to the"https://<Your_unique_app_name>.azurewebsites.net/" you can see:
+![image](https://user-images.githubusercontent.com/47538198/227805165-301e4bbd-761f-434d-8257-3746496218d6.png)
 * Project cloned into Azure Cloud Shell
 ![image](https://user-images.githubusercontent.com/47538198/227804273-c1d72551-62fd-44c3-8dc4-d785accda905.png)
 
