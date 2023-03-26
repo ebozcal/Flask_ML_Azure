@@ -26,13 +26,13 @@ After creating a Github Repository called AzureDevops, first Github Actions is u
 7. Create a Web App Manually and initially deploy the app in Cloud Shell. https://<Your_unique_app_name>.azurewebsites.net/.
 8. As a final step deploy the application using Azure Pipelines into Azure App Services. For this, create a Pipeline and Edit the YAML file to build and deploy the app service successfully and test an application inside of Azure Pipelines
 
-[Screenshot_action_passing.png](https://github.com/ebozcal/Flask_ML_Azure/blob/main/Screeshoots/Screenshot_action_passing.png?raw=true)
 
 ![image](https://user-images.githubusercontent.com/47538198/227804191-0181b58b-8d48-4f88-a4bd-96714b61a6c2.png)
 
 * Project running on Azure App Service
 
 * Project cloned into Azure Cloud Shell
+![image](https://user-images.githubusercontent.com/47538198/227804273-c1d72551-62fd-44c3-8dc4-d785accda905.png)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
