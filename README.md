@@ -55,6 +55,9 @@ Port: 443
 
 * Output of streamed log files from deployed application
 ![image](https://user-images.githubusercontent.com/47538198/227804769-f8ea31ad-80fe-41c0-adc8-c1287be5dece.png)
+* Demonstration of Continuous Delivery process on the Azure platform.
+Changing the application name in app.py from 'Sklearn Prediction Home' to 'Sklearn Prediction Continious integration' and commit it:
+![image](https://user-images.githubusercontent.com/47538198/227893674-b2989c40-3209-4899-8b4a-9d993ea2fab1.png)
 
 ## Enhancements
 You can extend this project by using different app rather than ML app and you can try different platforms todo this kind of CI/CD project rather than GitHub and azure paltforms
