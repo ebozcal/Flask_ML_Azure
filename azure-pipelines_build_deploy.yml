@@ -14,10 +14,10 @@ variables:
   azureServiceConnectionId: 'myServiceConnection'
   
   # TODO: Specify the value of the existing Web App name
-  webAppName: 'webapp228830'
+  webAppName: 'webapp228983'
  
   # Environment name
-  environmentName: 'Flask_ML_Deploy'
+  environmentName: 'Flask_ML_App'
   # Python version
   pythonVersion: '3.8'
 
