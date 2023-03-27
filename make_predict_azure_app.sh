@@ -26,4 +26,4 @@ curl -d '{
 }'\
      -H "Content-Type: application/json" \
      -X POST https://ertwebapp229019.azurewebsites.net:$PORT/predict 
-     # TODO: Replace the <yourappname> with your application name 
+     # TODO2: Replace the <yourappname> with your application name 
