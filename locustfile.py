@@ -1,7 +1,7 @@
 from locust import HttpUser, between, task
 
 class WebsiteUser(HttpUser):
-    host = "https://webapp228926.azurewebsites.net:443"
+    host = "https://webapp228983.azurewebsites.net:443"
     wait_time = between(5, 15)
 
     @task
