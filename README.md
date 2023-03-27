@@ -64,6 +64,6 @@ You can extend this project by using different app rather than ML app and you ca
 
 ## Demo 
 
-https://youtu.be/9WKCpIS6BhE
+[https://youtu.be/9WKCpIS6BhE](https://www.youtube.com/watch?v=VxVpLj_VHFg)
 
 
